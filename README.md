@@ -1,6 +1,6 @@
 # Hi there👋 I am Ajas 🌟  
 
-I'm an **Embedded Software Developer** with over 5 years of expertise in **RTOS**, **low-level programming**, and **bare-metal systems**. I specialize in delivering optimized embedded solutions with tools like **Embedded C/C++**, **FreeRTOS**, and diverse microcontroller architectures.  
+I'm an **Embedded Software Developer** with over 5 years of expertise in **RTOS**, **low-level programming**, **Digital Signal Processing**, and **bare-metal systems**. I specialize in delivering optimized embedded solutions with tools like **Embedded C/C++**, **FreeRTOS**, and diverse microcontroller architectures.  
 
 ---
 
