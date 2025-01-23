@@ -23,7 +23,7 @@ I'm an **Embedded Software Developer** with over 5 years of expertise in **RTOS*
 
 ### **D-SAFE: Portable Collision Notification System**  
 A system designed to reduce emergency response delays for automobile collisions.  
-[Explore on GitHub](https://github.com/aj-sn)  
+[Explore on GitHub Pages](https://aj-sn.github.io/Collision-Solution-System-D-Safe/)
 
 ### **CNC Plotter: Wall Hanging CNC Plotter**  
 Developed a large-scale plotter for oversized machine drawings.  
